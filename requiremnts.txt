@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+transformers
+sentence-transformers
+chromadb
+requests
+praw
+python-dotenv
+streamlit
+huggingface_hub
+FAISS
+snscrape
+beautifulsoup4
